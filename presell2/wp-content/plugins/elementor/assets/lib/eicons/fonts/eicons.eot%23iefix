@@ -1,0 +1,893 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	<meta name="theme-color" content="#513393" />
+	<meta name="description" content="Control Body para flacidez, rugas, marcas de expressão e melasma. Resultados rápidos, seguros e duradouros com Control Body!" />
+	<meta name="author" content="" />
+	<title>Control Body</title>
+
+	<meta property="og:title" content="Control Body" />
+	<meta property="og:description" content="Control Body para flacidez, rugas, marcas de expressão e melasma. Resultados rápidos, seguros e duradouros com Control Body!" />
+	<meta property="og:type" content="website" />
+	<meta property="og:url" content="https://controlbody.com.br/" />
+	<meta property="og:image" content="img/og.png" />
+	<meta property="og:image:width" content="400" />
+	<meta property="og:image:height" content="400" />
+
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+
+
+	<link rel="profile" href="https://gmpg.org/xfn/11" />
+	<link rel="dns-prefetch" href="https://s.w.org/" />
+
+	<link rel="shortcut icon" href="https://controlbody.com.br/img/favicon.png?v=2" />
+
+	<link rel="stylesheet" href="css/main.css" />
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.10/css/all.css" integrity="sha384-+d0P83n9kaQMCwj8F4RJB66tzIwOKmrdb46+porD/OvrJ+37WqIM7UoBtwHO6Nlg" crossorigin="anonymous"
+
+
+	<!-- Google Tag Manager -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+	new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+	j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+	'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-N6MQSCZ');</script>
+	<!-- End Google Tag Manager -->
+</head>
+<body>
+	<!-- Google Tag Manager (noscript) -->
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-N6MQSCZ"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+	<!-- End Google Tag Manager (noscript) -->
+
+	<nav id="home" class="navbar" role="navigation" aria-label="main navigation">
+		<div class="container">
+			<div class="navbar-brand">
+				<a class="navbar-item" href="#">
+					<img src="img/logo-horizontal-black.png" alt="Control Body">
+				</a>
+				<div class="is-flex has-text-right is-margin-left-auto menu-responsive">
+					<div class="navbar-item">
+						<div class="field is-grouped">
+							<p class="control">
+								<a class="button is-primary" href="#checkout">
+									<span class="novecento-bold">COMPRAR</span>
+									<span class="badge">1</span>
+								</a>
+							</p>
+						</div>
+					</div>
+				</div>
+				<div class="navbar-burger burger">
+					<span></span>
+					<span></span>
+					<span></span>
+				</div>
+			</div>
+			<div class="navbar-menu">
+				<div class="navbar-start">
+					<a class="navbar-item" href="#home">
+						Home
+					</a>
+					<a class="navbar-item" href="#beneficios">
+						Benefícios
+					</a>
+					<a class="navbar-item" href="#depoimentos">
+						Depoimentos
+					</a>
+					<a class="navbar-item" href="#duvidas">
+						Dúvidas
+					</a>
+				</div>
+
+				<div class="navbar-end">
+					<div class="navbar-item">
+						<div class="field is-grouped">
+							<p class="control">
+								<a class="button is-primary" href="#checkout">
+									<span class="novecento-bold">COMPRAR</span>
+									<span class="badge">1</span>
+								</a>
+							</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</nav>
+	<section class="section hero section-bg section-bg-abstract">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-left">
+					<h2 class="title is-2 has-text-white novecento-bold has-text-centered-mobile is-size-3-mobile">
+						DESCUBRA UMA NOVA MANEIRA PARA COMBATER AS RUGAS E FLACIDEZ*
+					</h2>
+					<p class="subtitle has-text-left novecento has-text-white text-medium has-text-centered-mobile">
+						Sua luta contra a gravidade agora tem um aliado. Tenha resultados rápidos, seguros e duradouros com Control Body.
+					</p>
+					<div class="has-text-centered">
+						<img src="img/produto.png" class="is-hidden-tablet is-hidden-desktop margin-auto has-text-centered"
+						 width="250">
+					</div>
+					<ul class="has-text-white novecento text-medium is-size-4 margin-auto-mobile list-destaque-responsive">
+						<li>
+							<i class="fas fa-angle-right"></i> Combate as rugas do rosto
+						</li>
+						<li>
+							<i class="fas fa-angle-right"></i> Reduz flacidez na barriga
+						</li>
+						<li>
+							<i class="fas fa-angle-right"></i> Menos flacidez nos seios
+						</li>
+						<li>
+							<i class="fas fa-angle-right"></i> Elimina os pés de galinha
+						</li>
+						<li>
+							<i class="fas fa-angle-right"></i> Diminui celulites e estrias
+						</li>
+						<li>
+							<i class="fas fa-angle-right"></i> Promove o rejuvenescimento
+						</li>
+					</ul>
+					<br>
+					<div class="columns has-text-left">
+						<div class="column is-12">
+							<div class="div-btn">
+								<a href="#checkout" class="btn-chamada margin-auto-mobile">
+									<i class="fas fa-check-double"></i> EU QUERO CONTROL BODY!
+									<br />
+								</a>
+							</div>
+						</div>
+					</div>
+					<p class="subtitle is-6 has-text-white">Os resultados podem variar de pessoa para pessoa de acordo com cada
+						metabolismo.*</p>
+				</div>
+				<div class="column is-5 has-text-centered is-hidden-mobile">
+					<img src="img/produto.png">
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section hero" style="padding-bottom:0px;">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-centered">
+					<h2 class="title is-1 novecento-bold color-title-destaque2 is-size-3-mobile">
+						PODEROSA FÓRMULA NATURAL
+					</h2>
+					<br>
+				</div>
+			</div>
+			<div class="columns">
+				<div class="column is-5 has-text-centered is-hidden-mobile">
+					<img src="img/produto.png">
+				</div>
+				<div class="column has-text-left">
+
+					<p class="subtitle has-text-left novecento text-medium has-text-centered-mobile">
+						Esta fórmula inédita no Brasil possui um alto poder contra a flacidez, além de repor o colágeno perdido,
+						ainda promove o aumento da produção do colágeno, diminuindo a flacidez de forma eficaz e duradoura. Também
+						pode ajudar no fortalecimento das juntas e reduzir dores.
+					</p>
+					<div class="has-text-centered">
+						<img src="img/produto.png" class="is-hidden-tablet is-hidden-desktop margin-auto has-text-centered"
+						 width="250">
+					</div>
+					<ul class="novecento text-medium is-size-4 list-destaque-responsive">
+						<li>
+							<i class="fas fa-angle-right color-title-destaque2"></i> Repõe o colágeno perdido
+						</li>
+						<li>
+							<i class="fas fa-angle-right color-title-destaque2"></i> Melhora absorção do colágeno
+						</li>
+						<li>
+							<i class="fas fa-angle-right color-title-destaque2"></i> Aumenta a produção de colágeno
+						</li>
+						<li>
+							<i class="fas fa-angle-right color-title-destaque2"></i> Hidrata sua pele com vitaminas
+						</li>
+						<li>
+							<i class="fas fa-angle-right color-title-destaque2"></i> Reduz as celulites
+						</li>
+						<li>
+							<i class="fas fa-angle-right color-title-destaque2"></i> Dá mais força aos tendões
+						</li>
+					</ul>
+					<br>
+					<div class="columns">
+						<div class="column">
+							<p>
+								Disponível em 4 pacotes: 1 Potes (30 dias) - 3 Potes (90 dias) - 5 Potes (5 meses) - 10 Potes (10 meses)
+							</p>
+						</div>
+					</div>
+					<div class="columns">
+						<div class="column">
+							<h3 class="title is-4 preco-e-frete"></h3>
+						</div>
+					</div>
+					<div class="columns">
+						<div class="column">
+							<div class="select is-fullwidth is-large option-checkout">
+								<select id="opcao-site" name="opcao-site" onchange="changeCheckout()">
+									<option value="1">1 Pote</option>
+									<option value="2" selected>3 Potes</option>
+									<option value="3">5 Potes</option>
+									<option value="4">10 Potes</option>
+								</select>
+							</div>
+						</div>
+						<div class="column">
+							<div class="div-btn">
+								<a href="#" onclick="clickOferta(); return false;" class="btn-chamada btn-select margin-auto-mobile">
+									<i class="fas fa-check-double"></i> COMPRAR AGORA!
+									<br />
+								</a>
+							</div>
+						</div>
+					</div>
+					<p class="subtitle is-7">Caso tenha alguma dúvida ou teve algum problema durante a compra, entre em contato conosco através do e-mail <a href="/cdn-cgi/l/email-protection#e794929788959382a78488899395888b8588839ec984888ac98595" target="_blank"><span class="__cf_email__" data-cfemail="8cfff9fce3fef8e9ccefe3e2f8fee3e0eee3e8f5a2efe3e1a2eefe">[email&#160;protected]</span></a>.</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="depoimentos" class="section hero" style="padding-bottom: 0px;">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-centered">
+					<h2 class="title is-1 novecento title-responsive">
+						PESSOAS QUE USAM <br class="is-hidden-mobile">
+						<span class="novecento-bold color-title-destaque2">
+							E RECOMENDAM!
+						</span>
+					</h2>
+					<br>
+				</div>
+			</div>
+			<div class="columns">
+				<div class="column">
+					<img src="img/depoimentos/reais/5-1.png">
+					<h3 class="title is-5 novecento-bold color-title-destaque2 margin-top-20">Maria</h3>
+					<p class="subtitle">
+						“Chegou bem rápido o meu Control Body!”
+					</p>
+				</div>
+				<div class="column">
+					<img src="img/depoimentos/reais/2-1.png">
+					<h3 class="title is-5 novecento-bold color-title-destaque2 margin-top-20">Sarah</h3>
+					<p class="subtitle">
+						“Atendimento excelente, recomendo”
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section id="beneficios" class="section hero">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-centered">
+					<h2 class="title is-2 novecento-bold color-title-destaque2 is-size-3-mobile">
+						COMO O CONTROL BODY PODE ME AJUDAR?
+					</h2>
+				</div>
+			</div>
+			<div class="beneficios columns is-multiline">
+				<div class="column item-beneficios is-4-tablet is-3-desktop">
+					<img src="img/beneficios/sem-rugas.jpg">
+					<h3 class="is-uppercase novecento-bold color-title-destaque2">Acaba com as<br>rugas no rosto</h3>
+				</div>
+				<div class="column item-beneficios is-4-tablet is-3-desktop">
+					<img src="img/beneficios/flacidez-barriga.jpg">
+					<h3 class="is-uppercase novecento-bold color-title-destaque2">Reduz flacidez<br>na barriga</h3>
+				</div>
+				<div class="column item-beneficios is-4-tablet is-3-desktop">
+					<img src="img/beneficios/seios.jpg">
+					<h3 class="is-uppercase novecento-bold color-title-destaque2">Menos flacidez<br>nos seios</h3>
+				</div>
+				<div class="column item-beneficios is-4-tablet is-3-desktop">
+					<img src="img/beneficios/pe-galinha.jpg">
+					<h3 class="is-uppercase novecento-bold color-title-destaque2">Elimina os<br>pés de galinha</h3>
+				</div>
+				<div class="column item-beneficios is-4-tablet is-3-desktop">
+					<img src="img/beneficios/celulite.jpg">
+					<h3 class="is-uppercase novecento-bold color-title-destaque2">Diminui celulites<br>e estrias</h3>
+				</div>
+				<div class="column item-beneficios is-4-tablet is-3-desktop">
+					<img src="img/beneficios/botox.jpg">
+					<h3 class="is-uppercase novecento-bold color-title-destaque2">Causa o efeito botox<br>permanente</h3>
+				</div>
+				<div class="column item-beneficios is-4-tablet is-3-desktop">
+					<img src="img/beneficios/unhas.jpg">
+					<h3 class="is-uppercase novecento-bold color-title-destaque2">Fortalece unhas<br>e cabelos</h3>
+				</div>
+				<div class="column item-beneficios is-4-tablet is-3-desktop">
+					<img src="img/beneficios/melasma.png">
+					<h3 class="is-uppercase novecento-bold color-title-destaque2">Ajuda contra<br>o melasma</h3>
+				</div>
+			</div>
+			<br><br>
+			<div class="columns has-text-centered">
+				<div class="column is-12">
+					<div class="div-btn">
+						<a href="#checkout" class="btn-chamada margin-auto">
+							<i class="fas fa-check-double"></i> FAZER MEU PEDIDO!
+							<br />
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section hero section-bg">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-centered">
+					<h2 class="title is-2 novecento-bold has-text-white is-size-3-mobile">
+						PORQUE VOCÊ PRECISA DO CONTROL BODY
+					</h2>
+				</div>
+			</div>
+			<div class="columns">
+				<div class="column">
+					<div class="column">
+						<p class="has-text-white subtitle text-medium has-text-centered-mobile">
+							O Colágeno hidrolisado da fórmula age repondo o colágeno perdido pelo seu corpo, dando reestruturação imediata para a pele. Já o Ácido Ascórbico age fazendo com que o colágeno seja melhor absorvido pelo seu organismo, tendo assim, ação mais rápida e duradoura, pois o mesmo ajuda na produção do colágeno pelo seu próprio organismo.
+						</p>
+					</div>
+				</div>
+			</div>
+			<div class="columns has-text-centered">
+				<div class="column is-12">
+					<div class="div-btn">
+						<a href="#checkout" class="btn-chamada margin-auto">
+							<i class="fas fa-check-double"></i> FAZER MEU PEDIDO!
+							<br />
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- CODIGO DO VIDEO YOUTUBE -->
+	<!-- <section class="section hero">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-centered">
+					<h2 class="title is-2 novecento-bold color-title-destaque2 is-size-3-mobile">
+						COMO O CONTROL BODY FUNCIONA?
+					</h2>
+				</div>
+			</div>
+			<div class="columns">
+				<div class="column">
+					<div class="videoWrapper">
+						<iframe width="560" height="349" src="http://www.youtube.com/embed/n_dZNsLr2cME?rel=0&hd=1" frameborder="0"
+						 allowfullscreen></iframe>
+					</div>
+				</div>
+			</div>
+			<div class="columns has-text-centered">
+				<div class="column is-12">
+					<div class="div-btn">
+						<a href="#checkout" class="btn-chamada margin-auto">
+							<i class="fas fa-check-double"></i> FAZER MEU PEDIDO!
+							<br />
+						</a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<section class="section hero section-bg">
+		<div class="container">
+			<div class="columns">
+				<div class="column">
+					<img src="img/produto-tree.png">
+				</div>
+				<div class="column">
+					<h2 class="title is-2 novecento-bold has-text-white has-text-centered-mobile is-size-3-mobile">
+						UM SIMPLES PASSO PARA COMBATER A FLACIDEZ COM SAÚDE* <br>
+						<span class="has-text-black is-size-4">VEJA COMO USAR O CONTROL BODY</span>
+					</h2>
+					<br>
+					<p class="subtitle has-text-white has-text-centered-mobile">
+						Essa fórmula foi projetada para combater a flacidez, aumentar a elasticidade e melhorar a aparência da pele. Logo pela manhã tome uma dose única de 2 cápsulas. Dessa forma, você vai reduzindo a flacidez naturalmente, sem ter que passar por procedimentos cirúrgicos e perigosos. *
+					</p>
+					<div class="columns has-text-left">
+						<div class="column is-12">
+							<div class="div-btn">
+								<a href="#checkout" class="btn-chamada margin-auto-mobile">
+									<i class="fas fa-check-double"></i> COMPRAR AGORA
+									<br />
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<div id="checkout"></div>
+	<section class="section hero">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-centered">
+					<h2 class="title is-2 novecento is-size-3-mobile">
+						FAÇA A ESCOLHA<br>
+						<span class="novecento-bold color-title-destaque2">
+							DO KIT IDEAL PARA VOCÊ!
+						</span>
+					</h2>
+				</div>
+			</div>
+			<div class="columns is-mobile is-tablet is-desktop is-multiline container-ofertas-horizontal">
+				<div class="column is-12-mobile is-6-tablet is-3-desktop">
+					<a href="https://controlbodypotes.appmax.com.br/one-checkout/ocmtb/5218" target="_blank">
+						<div class="oferta-container best-seller">
+							<div class="img-best-seller">
+								<img src="img/selo-best-selller.png">
+							</div>
+							<div class="oferta-header">
+								<div class="oferta-desconto">
+									57% DE DESCONTO
+								</div>
+							</div>
+							<div class="oferta-produto">
+								<div class="produtos-container">
+									<figure>
+										<img src="img/produto.png" alt="" class="product1">
+									</figure>
+									<figure>
+										<img src="img/produto.png" alt="" class="product2">
+									</figure>
+									<figure>
+										<img src="img/produto.png" alt="" class="product3">
+									</figure>
+									<figure>
+										<img src="img/produto.png" alt="" class="product4">
+									</figure>
+									<figure>
+										<img src="img/produto.png" alt="" class="product5">
+									</figure>
+								</div>
+							</div>
+							<div class="oferta-valores">
+								<div class="oferta-infos">
+									COMPRE 4 E LEVE 5
+								</div>
+								<p class="valor-com-desconto">
+									de <span class="line has-text-centered">R$ 1044,50</span>
+								</p>
+								<p class="valor-final">
+									por apenas 12x de <br><span>R$ 43,00</span>
+								</p>
+							</div>
+							<div class="btn-chamada margin-auto btn-select">
+								<div>
+									Comprar agora!
+									<span></span>
+								</div>
+							</div>
+						</div>
+					</a>
+					<div class="columns">
+						<div class="column has-text-centered is-marginless">
+							<img src="img/frete-gratis.png" class="margin-auto" width="300">
+						</div>
+					</div>
+				</div>
+				<div class="column is-12-mobile is-6-tablet is-3-desktop">
+					<a href="https://controlbodypotes.appmax.com.br/one-checkout/ocmtb/5217" target="_blank">
+						<div class="oferta-container">
+							<div class="oferta-header">
+								<div class="oferta-desconto">
+									41% DE DESCONTO
+								</div>
+							</div>
+							<div class="oferta-produto">
+								<div class="produtos-container">
+									<figure>
+										<img src="img/produto.png" alt="" class="product1">
+									</figure>
+									<figure>
+										<img src="img/produto.png" alt="" class="product2">
+									</figure>
+									<figure>
+										<img src="img/produto.png" alt="" class="product3">
+									</figure>
+								</div>
+							</div>
+							<div class="oferta-valores">
+								<div class="oferta-infos">
+									COMPRE 2 E LEVE 3
+								</div>
+								<p class="valor-com-desconto">
+									de <span class="line has-text-centered">R$ 626,70</span>
+								</p>
+								<p class="valor-final">
+									por apenas 8x de <br><span>R$ 53,54</span>
+								</p>
+							</div>
+							<div class="btn-chamada margin-auto btn-select">
+								<div>
+									Comprar agora!
+									<span></span>
+								</div>
+							</div>
+						</div>
+					</a>
+					<div class="columns">
+						<div class="column has-text-centered is-marginless">
+							<img src="img/frete-gratis.png" class="margin-auto" width="300">
+						</div>
+					</div>
+				</div>
+				<div class="column is-12-mobile is-6-tablet is-3-desktop">
+					<a href="https://controlbodypotes.appmax.com.br/one-checkout/ocmtb/5216" target="_blank">
+						<div class="oferta-container">
+							<div class="oferta-header">
+								<div class="oferta-desconto">
+									SEM DESCONTO
+								</div>
+							</div>
+							<div class="oferta-produto">
+								<div class="produtos-container">
+									<figure>
+										<img src="img/produto.png" alt="" class="product1">
+									</figure>
+								</div>
+							</div>
+							<div class="oferta-valores">
+								<div class="oferta-infos">
+									LEVE 1 POTE
+								</div>
+								<p class="valor-com-desconto">
+									<!-- de <span class="line has-text-centered">R$ 297,00</span> -->
+								</p>
+								<p class="valor-final">
+									por apenas 4x de <br><span>R$ 56,19</span>
+								</p>
+							</div>
+							<div class="btn-chamada margin-auto btn-select">
+								<div>
+									Comprar agora!
+									<span></span>
+								</div>
+							</div>
+						</div>
+					</a>
+				</div>
+				<div class="column is-12-mobile is-6-tablet is-3-desktop">
+					<a href="https://controlbodypotes.appmax.com.br/one-checkout/ocmtb/5219" target="_blank">
+						<div class="oferta-container">
+							<div class="oferta-header">
+								<div class="oferta-desconto">
+									70% DE DESCONTO
+								</div>
+							</div>
+							<div class="oferta-produto">
+								<div class="produtos-container">
+									<img src="img/10frasco.png" style="height: 180px;">
+								</div>
+							</div>
+							<div class="oferta-valores">
+								<div class="oferta-infos">
+									10 POTES
+								</div>
+								<p class="valor-com-desconto">
+									de <span class="line has-text-centered">R$ 2.089,00</span>
+								</p>
+								<p class="valor-final">
+									por apenas 12x de <br><span>R$ 62,92</span>
+								</p>
+							</div>
+							<div class="btn-chamada margin-auto btn-select">
+								<div>
+									Comprar agora!
+									<span></span>
+								</div>
+							</div>
+						</div>
+					</a>
+					<div class="columns">
+						<div class="column has-text-centered is-marginless">
+							<img src="img/frete-gratis.png" class="margin-auto" width="300">
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="columns">
+				<div class="column has-text-centered">
+					<img src="img/logo-cartoes.png" class="margin-auto" style="width: 700px;margin-top: 30px; margin-bottom: 25px;">
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section hero section-bg">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-centered">
+					<h2 class="title is-2 novecento text-medium is-uppercase has-text-white is-size-3-mobile">
+						Não está acostumada<br>
+						<span class="novecento-bold has-text-black">A comprar na internet?</span>
+					</h2>
+				</div>
+			</div>
+			<br>
+			<div class="columns">
+				<div class="columns">
+					<div class="column is-12">
+						<div class="item-seguranca">
+							<img src="img/seguranca/confiavel-01.png">
+							Dados pessoais sigilosos não são compartilhados
+						</div>
+						<div class="item-seguranca">
+							<img src="img/seguranca/confiavel-02.png">
+							Dados financeiros guardados não são compartilhados
+						</div>
+						<div class="item-seguranca">
+							<img src="img/seguranca/confiavel-03.png">
+							100% confiável compre com segurança
+						</div>
+						<div class="item-seguranca">
+							<img src="img/seguranca/confiavel-04.png">
+							Entrega garantida no prazo e política de devolução
+						</div>
+					</div>
+					<div class="column is-6 is-hidden-touch">
+						<!-- <img src="img/garantia.png" alt="" class="image img-center garantia-img show-right"> -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+	<section class="section hero">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-centered">
+					<img src="img/produto-two.png" width="400">
+				</div>
+				<div class="column">
+					<br><br>
+					<h2 class="title is-1 novecento-bold is-uppercase has-text-white section-bg is-inline is-size-3-mobile">
+						Satisfação garantida ou seu dinheiro de volta*
+					</h2>
+					<br><br>
+					<p class="subtitle">
+						Se dentro de 30 dias da compra do produto, você não estiver satisfeito, basta entrar em contato solicitando o
+						cancelamento e devolução do produto, bem como o reembolso de todo o seu dinheiro. <a href="https://controlbody.com.br/termos/">Clique aqui e saiba mais
+						detalhes.</a>
+					</p>
+				</div>
+			</div>
+		</div>
+	</section>
+	<!-- <section class="hero">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-centered">
+					<img src="img/bonus.jpg">
+				</div>
+			</div>
+		</div>
+	</section> -->
+	<section id="duvidas" class="hero">
+		<div class="container">
+			<div class="columns">
+				<div class="column has-text-centered">
+					<h2 class="title is-2 novecento-bold is-uppercase is-size-3-mobile">
+						DÚVIDAS FREQUENTES
+					</h2>
+				</div>
+			</div>
+			<div class="columns is-padding-side-mobile">
+				<div class="column">
+					<div class="faq show-bottom">
+						<div class="pergunta">
+							O QUE É
+							<span class="text-color1 font-bold">Control Body</span>?
+						</div>
+						<div class="resposta">
+							<span class="text-color1 font-bold">Control Body</span> é um poderoso suplemento natural e tem em sua fórmula
+							Acido Ascórbico e Colágeno, que juntos, contribuem para a redução da flacidez e o aumento da produção de
+							colágeno na pele. A solução certa para a saúde e beleza do seu corpo.
+						</div>
+					</div>
+
+					<div class="faq show-bottom">
+						<div class="pergunta">
+							COMO DEVO Utilizar
+							<span class="text-color1 font-bold">Control Body</span>?
+						</div>
+						<div class="resposta">
+							Indica-se o uso de
+							<span class="text-color1 font-bold">Control Body</span> uma vez ao dia, pela manhã, uma dose única de duas cápsulas. O recomendado é a utilização do produto de forma contínua, pois para cada pessoa, os resultados podem ser diferentes.
+						</div>
+					</div>
+
+					<div class="faq show-bottom">
+						<div class="pergunta">
+							Quem pode usar
+							<span class="text-color1 font-bold">Control Body</span>? Existe contra indicação?
+						</div>
+						<div class="resposta">
+							<span class="text-color1 font-bold">Control Body</span> tem fórmula natural e não apresenta efeitos
+							colaterais.
+							O produto é indicado para qualquer pessoa. Porém grávidas, lactantes, ou menores de 18 anos, recomendamos a
+							consulta médica antes de começar o uso. <span class="text-color1">Control Body</span> não contém glúten.
+						</div>
+					</div>
+
+					<div class="faq show-bottom">
+						<div class="pergunta">
+							Os beneficios de
+							<span class="text-color1 font-bold">Control Body</span> são comprovados cientificamente?
+						</div>
+						<div class="resposta">
+							Sim. A fórmula de <span class="text-color1 font-bold">Control Body</span> foi desenvolvida por meio de estudos
+							comprovados no controle da saúde do corpo. Os
+							ingredientes que compõem sua fórmula são essenciais para ajudar no redução da flacidez, aumento da produção de
+							colágeno e no equilíbrio do
+							corpo.
+						</div>
+					</div>
+					<div class="faq show-bottom">
+						<div class="pergunta">
+							O site é Seguro?
+						</div>
+						<div class="resposta">
+							Este site é 100% protegido contra recursos de má intenção. Suas informações pessoais são sigilosas segundo a
+							nossa
+							Política de Privacidade e a entrega é garantida! O <span class="text-color1 font-bold">Control Body</span> é
+							vendido diariamente para pessoas de todo o Brasil.
+						</div>
+					</div>
+
+					<div class="faq show-bottom">
+						<div class="pergunta">
+							<span class="text-color1 font-bold">Control Body</span> é vendido na farmácia ou Mercado Livre?
+						</div>
+						<div class="resposta">
+							Não, a venda é exclusivamente feita por nosso site oficial:
+							<span class="text-color1 font-bold">www.controlbody.com.br</span>
+							Nós não nos responsabilizamos por sites que fraudam o <span class="text-color1 font-bold">Control Body</span>.
+							É um grande risco à sua saúde comprar em sites como
+							Mercado Livre porque as cápsulas vendidas nele não passam pelo nosso controle de qualidade nem são aprovadas
+							pela
+							ANVISA.
+						</div>
+					</div>
+
+					<div class="faq show-bottom">
+						<div class="pergunta">
+							Qual o prazo de entrega do
+							<span class="text-color1 font-bold">Control Body</span>?
+						</div>
+						<div class="resposta">
+							 Após a compra, o prazo para que seus dados estejam no sistema, é de até 72 horas. Caso não consiga depois desse período, entre em contato conosco através do e-mail <a href="/cdn-cgi/l/email-protection#532026233c21273613303c3d27213c3f313c372a7d303c3e7d3121"><span class="__cf_email__" data-cfemail="80f3f5f0eff2f4e5c0e3efeef4f2efece2efe4f9aee3efedaee2f2">[email&#160;protected]</span></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="columns has-text-centered">
+				<div class="column is-12">
+					<div class="div-btn">
+						<a href="#checkout" class="btn-chamada margin-auto">
+							<i class="fas fa-check-double"></i> FAZER MEU PEDIDO!
+							<br />
+						</a>
+					</div>
+				</div>
+			</div>
+			<br>
+		</div>
+	</section>
+	<footer>
+		<section class="hero section-footer">
+			<div class="container">
+				<div class="columns">
+					<div class="column">
+						<img src="img/logo-horizontal.png" width="300">
+						<p class="subtitle is-6 has-text-white">
+							Para saber mais detalhes sobre a Garantia Control Body consulte os Termos e Condições.
+						</p>
+						<p class="subtitle is-6 has-text-white">
+							Rua Fernandes Francisco Coutinho - Canasvieira, Florianópolis - SC
+						</p>
+					</div>
+					<div class="column has-text-centered">
+						<h4 class="title novecento-bold has-text-white is-6 is-uppercase">
+							SELO DE APROVAÇÃO
+						</h4>
+						<img src="img/logo-anvisa-flat.png" width="200">
+					</div>
+					<div class="column">
+						<h4 class="title novecento-bold has-text-white is-6 is-uppercase">
+							Formas de Pagamento
+						</h4>
+						<img src="img/pagamentoFooter.png" width="300px">
+					</div>
+				</div>
+				<div class="columns">
+					<div class="column">
+						<hr>
+						<h4 class="title novecento-bold has-text-white is-6 is-uppercase">
+							Suporte e dúvidas?
+						</h4>
+						<p class="is-6 has-text-white">
+							<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="215254514e53554461424e4f55534e4d434e45580f424e4c0f4353">[email&#160;protected]</a><br>
+							<a href="https://api.whatsapp.com/send?phone=5548999950472&text=Tenho%20d%C3%BAvidas%20sobre%20o%20Control%20Body"
+							 class="text-white has-text-white" target="_blank"><!-- (48) 9 9995-0472 (WhatsApp) --></a>
+						</p>
+					</div>
+					<div class="column">
+						<hr>
+						<h4 class="title novecento-bold has-text-white is-6 is-uppercase">
+							Links Úteis
+						</h4>
+						<a href="aviso" class="text-white" target="_blank">Aviso Legal</a>
+						<br />
+						<a href="termos" class="text-white" target="_blank">Termos e Condições</a>
+						<br />
+						<a href="politica" class="text-white" target="_blank">Política de Privacidade</a>
+						<br />
+					</div>
+					<div class="column">
+						<hr>
+						<h4 class="title novecento-bold has-text-white is-6 is-uppercase">
+							Site 100% Seguro
+						</h4>
+						<p class="subtitle is-6 has-text-white">
+							<img src="img/seguro.png">
+						</p>
+					</div>
+				</div>
+				<hr>
+				<div class="columns">
+					<div class="column">
+						<p class="has-text-white has-text-centered is-size-7">
+							* Os resultados podem variar de acordo com o metabolismo de cada pessoa.
+							<br>
+							* Imagens meramente ilustrativas.
+							<br>
+							* Siga corretamente o modo de usar e método de conservação do produto.
+							<br>
+							* Você será redirecionado para a plataforma de pagamento da Appmax.
+							<br>
+							* Ao comprar você aceita e concorda com nossos termos de uso e politica de privacidade.
+							<br>
+							* É expressamente proibida a cópia ou reprodução de todas as imagens e textos desse site, ficando os infratores
+							sujeitos as penalidades cabíveis.
+							<br><br>
+							Venda proibida para menores de 18 anos. Os resultados podem variar de pessoa para pessoa. As informações contidas neste site ou nos e-mails enviados foram elaboradas apenas para propósitos educacionais. Não existe intenção de substituir conselhos ou tratamentos médicos. Estas informações não devem ser utilizadas para diagnosticar ou tratar qualquer problema de saúde ou doença sem uma consulta médica.
+
+						</p>
+					</div>
+				</div>
+			</div>
+		</section>
+		<section class="bottom-footer has-text-centered">
+			<p class="is-6 has-text-centered text-white">
+				<span class="fullYear"></span> &copy;
+				<span class="productName"></span>. Todos os direitos reservados.<br>
+				<p style="color:white">cnpj: 35.027.229/0001-02</p>
+			</p>
+		</section>
+	</footer>
+
+	<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script src="https://controlbody.com.br/js/app.min.js"></script>
+<!-- BEGIN JIVOSITE CODE {literal} -->
+<script type='text/javascript'>
+(function(){ var widget_id = 'PmmTNW0psX';var d=document;var w=window;function l(){var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;s.src = '//code.jivosite.com/script/widget/'+widget_id; var ss = document.getElementsByTagName('script')[0]; ss.parentNode.insertBefore(s, ss);}if(d.readyState=='complete'){l();}else{if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})();
+</script>
+<!-- {/literal} END JIVOSITE CODE -->
+
+</body>
+
+</html>
